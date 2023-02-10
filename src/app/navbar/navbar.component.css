@@ -1,0 +1,26 @@
+a{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    padding-left: 9px;
+}
+.active{
+    color: aliceblue;
+    border-bottom: 3px solid pink;
+    border-radius: 1px;
+}
+div
+{
+    display: flex;
+    justify-content: space-around;
+}
+a:hover{
+    color: grey;
+    
+}
+a:focus{
+    color: aliceblue;
+    border-bottom: 3px solid pink;
+    border-radius: 1px;
+}

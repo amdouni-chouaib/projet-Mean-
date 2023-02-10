@@ -1,0 +1,21 @@
+section{
+   display: flex;
+    flex-direction: column;
+    
+}
+.title{
+    display: flex;
+text-align: center;
+flex-direction: column;
+
+}
+.core{
+    
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-weight: 300;
+    color: #633991;
+    letter-spacing: -1px;
+}

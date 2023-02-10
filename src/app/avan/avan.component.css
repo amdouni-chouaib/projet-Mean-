@@ -1,0 +1,38 @@
+section{
+    display: flex;
+     flex-direction: column;
+     
+ }
+ .title{
+     display: flex;
+ text-align: center;
+ flex-direction: column;
+ 
+ }
+ .core{
+    margin: 40px;
+    justify-content: center;
+    display: flex;
+ }
+ mat-card{
+    border-left: 6px solid blue;
+    width: 40%;
+ }
+ #c1:hover{
+    margin-top: -2px;
+ }
+ #c2:hover{
+    margin-top: -2px;
+ }
+ #c3:hover{
+    margin-top: -2px;
+ }
+ h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #633991;
+ }
+ p{
+    font-size: 14px;
+    color: #959094;
+ }
